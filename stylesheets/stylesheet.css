@@ -654,4 +654,20 @@ article .bdsharebuttonbox {
   .container .category,.share_self {
     display: none;
   }
+  .home-box section ul.scene img {
+    width: 228px;
+    height: 171px;
+  }
+  .home-box section ul.scene li {
+    width: 248px;
+    height: 191px;
+  }
+  .home-box section ul.license img {
+    width: 228px;
+    height: 358px;
+  }
+  .home-box section ul.license li {
+    width: 248px;
+    height: 378px;
+  }
 }
